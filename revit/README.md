@@ -40,7 +40,7 @@ You can also use this code to freely explore your own design of the redistribute
 
 Copyright © 2023, NVIDIA Corporation. All rights reserved.
 
-This work is made available under the NVIDIA Source Code License-NC. Click [here](LICENSE) to view a copy of this license.
+This work is made available under the NVIDIA Source Code License-NC. Click [here](../LICENSE) to view a copy of this license.
 
 For license information regarding the DeiT repository, please refer to its [repository](https://github.com/facebookresearch/deit).
 
